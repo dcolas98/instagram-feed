@@ -1,0 +1,34 @@
+body{
+    background-color: #BDBDBD;
+    margin: 0%;
+}
+header h1{
+    background: white;
+    margin: 0%;
+}
+div.post{
+    background: white;
+}
+div.container{
+    width: 600px;
+    margin: auto;
+}
+div.post img{
+    width: 100%;
+}
+header{
+    padding: 10px;
+    background: white;
+}
+div.post h2{ 
+    padding: 5px;
+}
+div.post p{
+    padding: 10px;
+}
+span {
+    float: right;
+    position: relative;
+    bottom: 45px;
+    padding-right: 17px;
+}
